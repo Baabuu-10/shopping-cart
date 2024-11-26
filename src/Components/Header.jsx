@@ -9,7 +9,7 @@ const Header = () => {
     
   return (
     <div className='menu'>
-      <Link to="/" className="logo">Reactify</Link>
+      <Link to="/" className="logo">Reactify App</Link>
       <div className="links">
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
